@@ -1,2 +1,11 @@
 # Image-Manipulation-using-Python-without-external-libraries
-A notebook to showcase Image manipulation techniques without using external libraries like OpenCV, Pillow, etc
+A notebook to showcase Image manipulation techniques in Python without using external libraries like OpenCV, Pillow, etc
+
+Includes the following manipulations:
+- Channel-wise Addition
+- Invert Colors
+- Mirror Vertical
+- Mirror Horizontal
+- Blur(2 methods)
+- Resize
+- Lightness
