@@ -9,3 +9,4 @@ Includes the following manipulations:
 - Blur(2 methods)
 - Resize
 - Lightness
+- Brightness
