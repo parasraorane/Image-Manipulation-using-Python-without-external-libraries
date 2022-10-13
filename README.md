@@ -10,3 +10,4 @@ Includes the following manipulations:
 - Resize
 - Lightness
 - Brightness
+- Contrast
