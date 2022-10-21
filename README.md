@@ -6,6 +6,8 @@ Includes the following manipulations:
 - Invert Colors
 - Mirror Vertical
 - Mirror Horizontal
+- Rotate
+- Pad
 - Blur(2 methods)
 - Resize
 - Lightness
