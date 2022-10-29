@@ -13,3 +13,4 @@ Includes the following manipulations:
 - Lightness
 - Brightness
 - Contrast
+- Electronic Wave Effect
