@@ -14,4 +14,5 @@ Includes the following manipulations:
 - Brightness
 - Contrast
 - Electronic Wave Effect
+
 Blog: https://medium.com/@parasraorane/image-manipulation-in-python-without-external-libraries-8a7996b1155a
