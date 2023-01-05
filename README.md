@@ -16,5 +16,3 @@ Includes the following manipulations:
 - Electronic Wave Effect
 
 Blog: https://medium.com/@parasraorane/image-manipulation-in-python-without-external-libraries-8a7996b1155a
-
-https://tealfeed.com/simple-python-script-makes-wallpaper-smart-kzhpc
