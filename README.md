@@ -15,4 +15,9 @@ Includes the following manipulations:
 - Contrast
 - Electronic Wave Effect
 
-Blog: https://medium.com/@parasraorane/image-manipulation-in-python-without-external-libraries-8a7996b1155a
+<ins>Blog: https://medium.com/@parasraorane/image-manipulation-in-python-without-external-libraries-8a7996b1155a</ins>
+
+Effects:
+- Channels
+
+![alt text](https://github.com/parasraorane/Image-Manipulation-using-Python-without-external-libraries/blob/main/images/channels.png?raw=true)
