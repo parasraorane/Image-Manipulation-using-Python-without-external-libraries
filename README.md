@@ -21,3 +21,6 @@ Effects:
 - Channels
 
 ![alt text](https://github.com/parasraorane/Image-Manipulation-using-Python-without-external-libraries/blob/main/images/channels.png?raw=true)
+- Invert
+
+![alt text](https://github.com/parasraorane/Image-Manipulation-using-Python-without-external-libraries/blob/main/images/invert.png?raw=true)
